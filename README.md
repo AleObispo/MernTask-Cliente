@@ -6,4 +6,4 @@ Trabajo práctico para el curso de React - La Guia Completa - !
 
 
 
-mern-tasks-ale-obispo.netlify.app (Enlace a la aplicación)
+https://mern-tasks-ale-obispo.netlify.app (Enlace a la aplicación)
